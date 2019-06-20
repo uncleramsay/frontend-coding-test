@@ -26,7 +26,7 @@
   },
   "jest": {
     "testMatch": [
-      "**/?(*.)+(spec|test)\\.mjs"
+      "**/*.mjs"
     ],
     "transform": {
       "^.+\\.m?js$": "babel-jest"
